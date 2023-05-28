@@ -6,7 +6,7 @@ import Navbar from 'react-bootstrap/Navbar';
 export default function Nav1() {
     return (
         <div>
-            <Navbar expand='ig' bg="dark blue" variant="dark ">
+            <Navbar bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand href="/" ><h1>Blog</h1></Navbar.Brand>
                     <Nav className="text-center">

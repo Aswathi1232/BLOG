@@ -42,7 +42,7 @@ export default function Home() {
               return (
                 <Col key={index}>
                   <Card className='mt-3' style={{ width: '18rem', maxHeight: '100rem', height: '33rem' }}>
-                  <Card.Img variant="top" src="https://jsonplaceholder.typicode.com/posts" />
+                  <Card.Img variant="top" src="https://i.pinimg.com/originals/f7/d1/4c/f7d14cdbe744edb59aa6af2b3be76f96.jpg" />
                     <Card.Body>
                       <Card.Title>{item.title}</Card.Title>
                       <Card.Text>{item.body}</Card.Text>
